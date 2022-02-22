@@ -38,3 +38,6 @@ venv.bak/
 
 # macOS
 .DS_Store
+
+# external data
+1_data_manipulations/database.sqlite
