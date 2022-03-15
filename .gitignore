@@ -42,3 +42,5 @@ venv.bak/
 # external data
 1_data_manipulations/database.sqlite
 2_data_exploration/train.csv
+3_linear_regression/database.sqlite
+3_linear_regression/player_attributes.csv
