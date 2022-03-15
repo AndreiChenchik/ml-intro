@@ -41,3 +41,4 @@ venv.bak/
 
 # external data
 1_data_manipulations/database.sqlite
+2_data_exploration/train.csv
