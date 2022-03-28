@@ -44,3 +44,7 @@ venv.bak/
 2_data_exploration/train.csv
 3_linear_regression/database.sqlite
 3_linear_regression/player_attributes.csv
+
+# review process
+3_linear_regression/review/
+
