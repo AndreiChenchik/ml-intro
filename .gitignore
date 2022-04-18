@@ -46,6 +46,7 @@ venv.bak/
 3_linear_regression/player_attributes.csv
 5_classification_linear_knn/test.csv
 5_classification_linear_knn/train.csv
+7_trees_and_ensembles/data/titanic.csv
 
 # review process
 3_linear_regression/review/
